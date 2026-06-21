@@ -96,7 +96,7 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adel06Galal&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Adel06Galal&theme=tokyonight&row=1&column=6&no-frame=true&no-bg=true"/>
 </p>
 
 ---
