@@ -107,27 +107,27 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 <p align="center">
 
 <a href="https://github.com/Adel06Galal">
-<img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
 <a href="https://www.linkedin.com/in/adelgalal06">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
 <a href="mailto:adel777galal22@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
 <a href="https://www.facebook.com/share/1D6MzstUri/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45"/>
 </a>
 
 <a href="https://www.instagram.com/adel.__.galal">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45"/>
 </a>
 
 <a href="https://wa.me/201023380494">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="45"/>
 </a>
 
 </p>
