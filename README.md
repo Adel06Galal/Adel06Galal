@@ -107,27 +107,27 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 <p align="center">
 
 <a href="https://github.com/Adel06Galal">
-  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  <img src="https://cdn.simpleicons.org/github/white" width="45" />
 </a>
 
 <a href="https://www.linkedin.com/in/adelgalal06">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" />
 </a>
 
 <a href="mailto:adel777galal22@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" />
 </a>
 
 <a href="https://www.instagram.com/adel.__.galal">
-  <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" />
 </a>
 
 <a href="https://www.facebook.com/share/1D6MzstUri/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" width="45"/>
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" />
 </a>
 
 <a href="https://wa.me/201023380494">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="45"/>
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" />
 </a>
 
 </p>
