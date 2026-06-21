@@ -111,7 +111,7 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 </a>
 
 <a href="https://www.linkedin.com/in/adelgalal06">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
 <a href="mailto:adel777galal22@gmail.com">
