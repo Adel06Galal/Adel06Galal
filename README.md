@@ -10,13 +10,11 @@
 
 </div>
 
-
 ---
 
 ## 🧠 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 
 I'm **Adel Galal**.
 
@@ -34,14 +32,11 @@ I enjoy learning, building, analyzing, and understanding how things work.
 - 🧠 Technology & Innovation
 - 🚀 Creating New Ideas
 
-
 <br clear="right"/>
-
 
 ---
 
 ## ⚙️ Skills & Tools
-
 
 <p align="center">
 
@@ -49,11 +44,9 @@ I enjoy learning, building, analyzing, and understanding how things work.
 
 </p>
 
-
 ---
 
-## 🧩 Developer Mindset
-
+## 🧠 Developer Mindset
 
 ```cpp
 #include <iostream>
@@ -61,28 +54,37 @@ I enjoy learning, building, analyzing, and understanding how things work.
 
 using namespace std;
 
-
 class Adel {
 
 public:
 
-    string mindset = "Think • Learn • Build";
+    string mindset = "Think • Learn • Build • Repeat";
 
     vector<string> interests = {
-
-        "AI",
-        "Software Development",
+        "Artificial Intelligence",
+        "C++ Development",
+        "Problem Solving",
+        "Software Engineering",
         "Creative Thinking",
-        "Technology",
-        "Problem Solving"
-
+        "Game Development"
     };
 
+    vector<string> skills = {
+        "C++",
+        "Python",
+        "Git & GitHub",
+        "Linux",
+        "MySQL",
+        "HTML & CSS"
+    };
 
-    void mission(){
-
-        cout << "Create something meaningful";
-
+    void mission() {
+        cout << "Build meaningful and impactful technology";
     }
-
 };
+
+int main() {
+    Adel me;
+    me.mission();
+    return 0;
+}
