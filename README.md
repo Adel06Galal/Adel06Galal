@@ -123,7 +123,7 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 </a>
 
 <a href="https://www.facebook.com/share/1D6MzstUri/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
 </a>
 
 <a href="https://wa.me/201023380494">
