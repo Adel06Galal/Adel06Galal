@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Adel%20Galal&fontSize=50&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adel%20Galal&fontSize=55&animation=fadeIn&fontAlignY=35"/>
 
-<h2>
-AI Student • C++ Developer • Creator • Explorer
-</h2>
+# ⚡ Adel Galal
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=650&lines=Building+ideas+into+reality;AI+%7C+C%2B%2B+%7C+Technology;Learning+%26+Creating+Everyday"/>
+### AI Student • C++ Developer • Creator • Explorer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=650&lines=Building+ideas+into+reality;AI+%7C+C%2B%2B+%7C+Technology;Learning+%26+Creating+Everyday;Not+just+a+coder+...+a+problem+solver"/>
 
 </div>
 
@@ -20,19 +20,19 @@ AI Student • C++ Developer • Creator • Explorer
 
 I'm **Adel Galal**.
 
-An AI student who enjoys exploring technology, programming, and creative ideas.
+AI student who loves exploring technology, programming, and creative ideas.
 
-I believe that learning is not limited to one field —  
-I like understanding systems, building projects, and discovering how things work.
+I don't believe in being limited to one field —  
+I enjoy learning, building, analyzing, and understanding how things work.
 
-### My Interests:
+### 🔥 Interests:
 
 - 🤖 Artificial Intelligence
 - 💻 C++ Development
 - 🧩 Problem Solving
 - 🎮 Gaming & Digital Experiences
 - 🧠 Technology & Innovation
-- 🚀 Building New Ideas
+- 🚀 Creating New Ideas
 
 
 <br clear="right"/>
@@ -52,7 +52,7 @@ I like understanding systems, building projects, and discovering how things work
 
 ---
 
-## 🧩 My Mindset
+## 🧩 Developer Mindset
 
 
 ```cpp
@@ -66,11 +66,11 @@ class Adel {
 
 public:
 
-    string mindset = "Think. Learn. Build.";
+    string mindset = "Think • Learn • Build";
 
     vector<string> interests = {
 
-        "Artificial Intelligence",
+        "AI",
         "Software Development",
         "Creative Thinking",
         "Technology",
