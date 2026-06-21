@@ -118,11 +118,11 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://www.facebook.com/[YOUR_FACEBOOK_USERNAME](https://www.facebook.com/share/1D6MzstUri/)">
+<a href="https://www.facebook.com/share/1D6MzstUri/">
 <img src="https://skillicons.dev/icons?i=facebook"/>
 </a>
 
-<a href="https://www.instagram.com/[YOUR_INSTAGRAM_USERNAME](https://www.instagram.com/adel.__.galal?igsh=MWd2NGMybXV0aDM0bg==)">
+<a href="https://www.instagram.com/adel.__.galal">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
