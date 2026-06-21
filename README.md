@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://i.imgur.com/your-banner.gif" width="900"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Adel%20Galal&fontSize=50&fontAlignY=35"/>
 
-# ⚡ ADEL GALAL
+<h2>
+AI Student • C++ Developer • Creator • Explorer
+</h2>
 
-### AI Student • Developer • Creator • Explorer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&width=600&lines=Building+ideas+into+reality;AI+%7C+C%2B%2B+%7C+Technology;Always+learning+something+new" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=650&lines=Building+ideas+into+reality;AI+%7C+C%2B%2B+%7C+Technology;Learning+%26+Creating+Everyday"/>
 
 </div>
 
@@ -18,42 +18,68 @@
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-I'm not only a programmer.
+I'm **Adel Galal**.
 
-I enjoy exploring different worlds:
+An AI student who enjoys exploring technology, programming, and creative ideas.
+
+I believe that learning is not limited to one field —  
+I like understanding systems, building projects, and discovering how things work.
+
+### My Interests:
+
 - 🤖 Artificial Intelligence
-- 💻 Software Development
-- 🎮 Gaming & Digital Experiences
+- 💻 C++ Development
 - 🧩 Problem Solving
-- 🧠 Psychology & Understanding Systems
-- 🎨 Creativity & New Ideas
+- 🎮 Gaming & Digital Experiences
+- 🧠 Technology & Innovation
+- 🚀 Building New Ideas
+
+
+<br clear="right"/>
 
 
 ---
 
-## ⚙️ My Developer Mind
+## ⚙️ Skills & Tools
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,vscode,mysql,html,css"/>
+
+</p>
+
+
+---
+
+## 🧩 My Mindset
+
 
 ```cpp
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+
 class Adel {
-
-private:
-
-    string mindset = "Think Different";
 
 public:
 
+    string mindset = "Think. Learn. Build.";
+
     vector<string> interests = {
 
-        "AI",
-        "C++",
+        "Artificial Intelligence",
+        "Software Development",
+        "Creative Thinking",
         "Technology",
-        "Creative Projects",
-        "Learning"
+        "Problem Solving"
 
     };
 
 
-    void build(){
+    void mission(){
 
         cout << "Create something meaningful";
 
