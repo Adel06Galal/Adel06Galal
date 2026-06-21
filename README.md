@@ -123,11 +123,11 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 </a>
 
 <a href="https://www.facebook.com/share/1D6MzstUri/">
-  <img src="https://skillicons.dev/icons?i=facebook" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" width="45"/>
 </a>
 
 <a href="https://wa.me/201023380494">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="45"/>
 </a>
 
 </p>
