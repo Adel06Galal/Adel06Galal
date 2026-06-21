@@ -80,7 +80,7 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 # 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Adel06Galal&theme=tokyonight"/>
 </p>
 
 ---
@@ -88,7 +88,7 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adel06Galal&theme=tokyo-night"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Adel06Galal&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
@@ -114,15 +114,15 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Adel06Galal">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/adelgalal06">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:adel777galal22@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -137,7 +137,7 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Adel06Galal&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
