@@ -93,14 +93,6 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 
 ---
 
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adel06Galal&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
 # 🚀 Featured Projects
 
 * 🎮 Game Management System
@@ -118,7 +110,7 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/adelgalal06">
+<a href="https://www.linkedin.com/in/adelgalal06">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -126,12 +118,19 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
-<img src="https://skillicons.dev/icons?i=discord"/>
+<a href="https://www.facebook.com/[YOUR_FACEBOOK_USERNAME](https://www.facebook.com/share/1D6MzstUri/)">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+<a href="https://www.instagram.com/[YOUR_INSTAGRAM_USERNAME](https://www.instagram.com/adel.__.galal?igsh=MWd2NGMybXV0aDM0bg==)">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://wa.me/201023380494">
+<img src="https://skillicons.dev/icons?i=whatsapp"/>
 </a>
 
 </p>
-
 ---
 
 # 👀 Profile Views
