@@ -119,11 +119,11 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 </a>
 
 <a href="https://www.facebook.com/share/1D6MzstUri/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="45"/>
 </a>
 
 <a href="https://www.instagram.com/adel.__.galal">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="45"/>
 </a>
 
 <a href="https://wa.me/201023380494">
@@ -131,7 +131,6 @@ I don't believe in being limited to one field — I enjoy learning, building, an
 </a>
 
 </p>
-
 ---
 
 # 👀 Profile Views
