@@ -4,7 +4,7 @@
 
 # ⚡ ADEL GALAL
 
-### AI Student • C++ Developer • Creator • Explorer
+###  Artificial Intelligence Student • C++ Developer • Creator • Explorer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=700&lines=Building+Ideas+Into+Reality;AI+%7C+C%2B%2B+%7C+Technology;Learning+%26+Creating+Everyday;Not+Just+A+Coder...+A+Problem+Solver"/>
 
@@ -24,7 +24,7 @@
 
 Hi, I'm **ADEL GALAL** 👋
 
-🎓 AI Student passionate about **Artificial Intelligence, Software Engineering, and building impactful solutions through code and creativity**.
+🎓 Artificial Intelligence Student passionate about **Artificial Intelligence, Software Engineering, and building impactful solutions through code and creativity**.
 
 I don't believe in being limited to one field — I enjoy learning, building, analyzing, and understanding how things work.
 
