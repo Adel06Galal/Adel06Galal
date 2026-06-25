@@ -215,9 +215,7 @@ adel@system:~$
 <img src="https://cdn.simpleicons.org/github/ffffff" width="55"/>
 </a>
 
-<a href="https://www.linkedin.com/in/adelgalal06">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55"/>
-</a>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 
 <a href="mailto:adel777galal22@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55"/>
@@ -269,6 +267,3 @@ while(true)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:000000&height=140&section=footer"/>
 
 </div>
-```
-
-دي أقرب لبراند شخصي ليك مش مجرد CV.
