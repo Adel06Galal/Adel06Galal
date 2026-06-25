@@ -22,22 +22,25 @@
 
 ```cpp
 #include <iostream>
+#include <vector>
 
 class Adel {
 
 public:
 
-    string field = "Artificial Intelligence";
+    std::string field = "Artificial Intelligence";
 
-    vector<string> skills = {
+    std::vector<std::string> skills = {
+
         "C++",
         "Python",
         "Machine Learning",
         "Problem Solving",
         "Software Engineering"
+
     };
 
-    string mission =
+    std::string mission =
     "Transform ideas into intelligent systems";
 
 };
@@ -49,18 +52,18 @@ public:
 
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm **ADEL GALAL**
+I'm **ADEL GALAL** 👋
 
-AI student who loves building things that combine:
+Artificial Intelligence student passionate about building technology that combines:
 
-🤖 Intelligence
-💻 Code
+🤖 Artificial Intelligence
+💻 Software Development
 ⚙️ Engineering
 🧠 Creativity
 
-I believe programming is not only writing code...
+I don't just write code...
 
-It's understanding problems and creating solutions.
+I analyze problems, design solutions, and build systems.
 
 <br clear="right"/>
 
@@ -74,14 +77,18 @@ adel@ai-machine:~$ ./profile.exe
 
 [+] Loading identity...
 
+
 Name:
 ADEL GALAL
+
 
 Role:
 AI Student / C++ Developer
 
+
 Status:
 Learning • Building • Improving
+
 
 Goal:
 Create intelligent software 🚀
@@ -106,13 +113,16 @@ adel@ai-machine:~$ _
 
 ```
 Artificial Intelligence
+
 │
 ├── Machine Learning
 ├── Deep Learning
 ├── Computer Vision
 ├── AI Applications
-│
+
+
 Software Engineering
+
 │
 ├── C++
 ├── Algorithms
@@ -124,23 +134,23 @@ Software Engineering
 
 # 🚀 Featured Projects
 
-## 🤖 AI Projects
+### 🤖 AI Projects
 
-Building intelligent applications using:
+Building intelligent systems using:
 
 * Machine Learning
 * Data Processing
 * Computer Vision
 
-## 💻 C++ Engineering
+### 💻 C++ Engineering
 
 Creating:
 
-* Algorithms Solutions
-* Performance Based Programs
-* Problem Solving Projects
+* Algorithms
+* Performance Applications
+* Problem Solving Solutions
 
-## 🖥 Desktop Applications
+### 🖥 Desktop Applications
 
 Developing:
 
@@ -172,7 +182,7 @@ Developing:
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -214,5 +224,5 @@ while(true)
 ### "Building tomorrow, one line of code at a time."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=150&section=footer"/>
-of
+
 </div>
