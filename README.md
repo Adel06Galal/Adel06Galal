@@ -1,2 +1,247 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=ADEL%20GALAL&fontSize=60&animation=fadeIn&fontAlignY=35"/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=250&section=header&text=ADEL%20GALAL&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/># ⚡ ADEL GALAL<br>###  Artificial Intelligence Student • C++ Developer • Creator • Explorer<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&width=750&lines=AI+Student+%7C+C%2B%2B+Developer;Building+Smart+Systems;Turning+Ideas+Into+Code;Learning+%26+Creating+Everyday"/><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=700&lines=Building+Ideas+Into+Reality;AI+%7C+C%2B%2B+%7C+Technology;Learning+%26+Creating+Everyday;Not+Just+A+Coder...+A+Problem+Solver"/><br><p>  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=for-the-badge"/>  <img src="https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Python-orange?style=for-the-badge"/>  <img src="https://img.shields.io/badge/Open%20To-Collaboration-success?style=for-the-badge"/></p><img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai"/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus"/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/><img src="https://img.shields.io/badge/Problem%20Solver-success?style=for-the-badge"/></div>---# 🧠 About Me<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">Hi, I'm **ADEL GALAL** 👋```cppclass Adel {🎓 Artificial Intelligence Student passionate about **Artificial Intelligence, Software Engineering, and building impactful solutions through code and creativity**.public:I don't believe in being limited to one field — I enjoy learning, building, analyzing, and understanding how things work.    string role = "AI Student";    string passion = "Building Intelligent Systems";    string mindset = "Learn -> Build -> Improve";🔥 **Interests**};````Hi, I'm **ADEL GALAL** 👋* 🤖 Artificial Intelligence* 💻 C++ Development* 🧩 Problem Solving* 🎮 Gaming & Digital Experiences* 🧠 Technology & Innovation* 🚀 Creating New IdeasArtificial Intelligence student passionate about:🤖 AI & Machine Learning💻 C++ Development🧩 Problem Solving⚙️ Software Engineering🚀 Creating Useful TechnologyI enjoy understanding how things work and transforming ideas into real projects.<br clear="right"/>---# ⚙️ Skills & Tools# ⚡ My Tech Arsenal<p align="center"><img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,vscode,mysql,html,css"/><img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,vscode,mysql,html,css,opencv,tensorflow"/></p>---# 📚 Currently Learning* 🧠 Deep Learning* ⚡ Advanced C++* 🧩 Data Structures & Algorithms* 🏗 Software Architecture* 🤖 AI Applications```🧠 Deep Learning⚡ Advanced C++📊 Data Structures & Algorithms🏗 Software Architecture🤖 AI Applications```---# 🚧 Currently Working On# 🚀 Currently Building* 🤖 Building AI-Powered Applications* 💻 Solving Algorithmic Problems in C++* 📚 Exploring Software Architecture* 🚀 Creating Projects That Combine AI and Creativity```> AI Powered Applications> Desktop Applications> C++ Projects> Intelligent Solutions```---# 📊 GitHub Stats# 💻 Terminal<p align="center">  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adel06Galal&show_icons=true&theme=tokyonight"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adel06Galal&layout=compact&theme=tokyonight"/></p>```bashadel@github:~$ whoamiAI StudentC++ DeveloperProblem Solveradel@github:~$ current_goalBuild intelligent software 🚀```---# 🔥 Contribution Streak# 🚀 Featured Projects<p align="center">  <img src="https://streak-stats.demolab.com?user=Adel06Galal&theme=tokyonight"/></p>| Project                  | Technology  | Status       || ------------------------ | ----------- | ------------ || 🤖 AI Applications       | Python / ML | 🔥 Building  || 🎮 Game Systems          | C++         | ✅ Completed  || 🖥 Image Processing Apps | OpenCV      | 🚀 Developed || 🧩 Algorithms Solutions  | C++         | ⚡ Improving  |---# 📈 Contribution Graph# 📊 GitHub Analytics<p align="center">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adel06Galal&theme=tokyo-night"/></p><div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=Adel06Galal&show_icons=true&theme=tokyonight"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adel06Galal&layout=compact&theme=tokyonight"/></div>---# 🚀 Featured Projects# 🔥 Contribution Streak* 🎮 Game Management System* 🤖 AI Projects & Experiments* 💻 C++ Problem Solving Solutions* 🚀 Future AI & Software Projects<div align="center"><img src="https://streak-stats.demolab.com?user=Adel06Galal&theme=tokyonight"/></div>---# 🌐 Connect With Me<p align="center"><div align="center"><a href="https://github.com/Adel06Galal">  <img src="https://cdn.simpleicons.org/github/white" width="45" /><img src="https://cdn.simpleicons.org/github/white" width="50"/></a><a href="https://www.linkedin.com/in/adelgalal06">  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50"/></a><a href="mailto:adel777galal22@gmail.com">  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" /><img src="https://cdn.simpleicons.org/gmail/EA4335" width="50"/></a><a href="https://www.instagram.com/adel.__.galal">  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" /></a><a href="https://www.facebook.com/share/1D6MzstUri/">  <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" /><img src="https://cdn.simpleicons.org/instagram/E4405F" width="50"/></a><a href="https://wa.me/201023380494">  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" /></a></div></p>---# 👀 Profile Views<p align="center"><img src="https://komarev.com/ghpvc/?username=Adel06Galal&label=Profile%20Views&color=blue&style=for-the-badge"/></p>---<div align="center"># 🧠 Developer Mindset<img src="https://komarev.com/ghpvc/?username=Adel06Galal&label=PROFILE%20VIEWS&color=blue&style=for-the-badge"/>```cpp#include <iostream></div>int main() {---    while (true) {        Think();        Learn();        Build();        Repeat();    }# 🧠 Developer Philosophy    return 0;```cppwhile(true){    Learn();    Build();    Fail();    Improve();}```---# 💭 Quote<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/></p>---# 🐍 Contribution Snake<p align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/></p>---<div align="center">### 🚀 "Code is not just about making computers work, it's about turning ideas into reality."### 🚀 Code is not just instructions...### It's a way to create ideas.<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/></div>
-0 commit commentsComments0 (0)Lock conversationCommentSubscribeYou're not receiving notifications from this thread.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=260&section=header&text=ADEL%20GALAL&fontSize=75&fontColor=ffffff&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00FFFF&center=true&width=850&lines=Artificial+Intelligence+Student;C%2B%2B+Developer;Building+Smart+Systems;Turning+Ideas+Into+Code"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20Engineer%20in%20Progress-000000?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/C%2B%2B%20Developer-00599C?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Problem%20Solver-success?style=for-the-badge"/>
+
+</div>
+
+
+---
+
+# 🧠 About Me
+
+
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+Hi, I'm **ADEL GALAL** 👋
+
+🎓 Artificial Intelligence Student
+
+💻 C++ Developer
+
+🤖 AI & Machine Learning Enthusiast
+
+
+I enjoy building software, solving problems, and creating intelligent solutions using technology.
+
+
+<br clear="right"/>
+
+
+---
+
+# 🧬 Developer Identity
+
+
+```cpp
+#include <iostream>
+#include <vector>
+
+class Adel {
+
+public:
+
+    std::string role = "AI Student";
+
+    std::string passion =
+    "Building Intelligent Systems";
+
+    std::vector<std::string> skills = {
+
+        "C++",
+        "Python",
+        "Machine Learning",
+        "Problem Solving",
+        "Software Engineering"
+
+    };
+
+};
+````
+
+---
+
+# ⚔️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,tensorflow,pytorch,opencv,linux,git,github,vscode,mysql,html,css,js"/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```
+🧠 Deep Learning
+
+⚡ Advanced C++
+
+📊 Data Structures & Algorithms
+
+🏗 Software Architecture
+
+🤖 AI Applications
+```
+
+---
+
+# 🚀 Currently Building
+
+```
+> AI Powered Applications
+
+> Desktop Applications
+
+> C++ Projects
+
+> Intelligent Solutions
+```
+
+---
+
+# 🖥️ Developer Terminal
+
+```bash
+adel@ai-machine:~$ ./profile.exe
+
+
+[+] Loading Identity...
+
+
+Name:
+ADEL GALAL
+
+
+Role:
+AI Student / C++ Developer
+
+
+Status:
+Learning • Building • Improving
+
+
+Goal:
+Create Intelligent Software 🚀
+
+
+adel@ai-machine:~$
+```
+
+---
+
+# 🚀 Featured Projects
+
+| Project             | Technology  | Status       |
+| ------------------- | ----------- | ------------ |
+| 🤖 AI Applications  | Python / ML | 🔥 Building  |
+| 🎮 Game Systems     | C++         | ✅ Completed  |
+| 🖼 Image Processing | OpenCV      | 🚀 Developed |
+| 🧩 Algorithms       | C++         | ⚡ Improving  |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Adel06Galal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adel06Galal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Adel06Galal&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Adel06Galal">
+<img src="https://cdn.simpleicons.org/github/ffffff" width="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adelgalal06">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="55"/>
+</a>
+
+<a href="mailto:adel777galal22@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="55"/>
+</a>
+
+<a href="https://www.instagram.com/adel.__.galal">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="55"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Adel06Galal&label=PROFILE%20VIEWS&color=blue&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🧠 My Philosophy
+
+```cpp
+while(true)
+{
+
+    Learn();
+
+    Build();
+
+    Improve();
+
+}
+```
+
+---
+
+<div align="center">
+
+### 🚀 Code is not just instructions...
+
+### It's a way to create ideas.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=130&section=footer"/>
+
+</div>
