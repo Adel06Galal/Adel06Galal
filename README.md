@@ -203,9 +203,7 @@ adel@system:~$
 <img src="https://cdn.simpleicons.org/github/white" width="50"/>
 </a>
 
-<a href="https://www.linkedin.com/in/adelgalal06">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 
 <a href="mailto:adel777galal22@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50"/>
