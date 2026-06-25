@@ -205,28 +205,44 @@ adel@system:~$
 
 # 🌐 Connect With Me
 
+
 <div align="center">
+
 
 <a href="https://adel06galal.github.io/">
 <img src="https://cdn.simpleicons.org/googlechrome/00FFFF" width="55"/>
 </a>
 
+
 <a href="https://github.com/Adel06Galal">
 <img src="https://cdn.simpleicons.org/github/ffffff" width="55"/>
 </a>
 
+
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+
 
 <a href="mailto:adel777galal22@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55"/>
 </a>
 
+
 <a href="https://www.instagram.com/adel.__.galal">
 <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55"/>
 </a>
 
-</div>
 
+<a href="https://www.facebook.com/share/1D6MzstUri/">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="55"/>
+</a>
+
+
+<a href="https://wa.me/201023380494">
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" width="55"/>
+</a>
+
+
+</div>
 ---
 
 # 👀 Profile Views
